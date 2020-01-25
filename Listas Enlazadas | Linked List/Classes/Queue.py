@@ -30,13 +30,13 @@ class LinkedListQueue:
         return False
 
     def getFirst(self):
-        return self.first.value
+        print(self.first.value)
 
     def getLast(self):
         current = self.first
         while(current.next):
             current = current.next
-        return current.value
+        print(current.value)
 
     def printLL(self):
         List = ""
