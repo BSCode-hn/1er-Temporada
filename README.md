@@ -1,4 +1,4 @@
-# 1er-Temporada HTML | JavaScript | Python 
+# Algoritmos y Estructuras de Datos HTML | JavaScript | Python 
 Descripción y codificación de estructuras de datos conocidas.
 * Temas:
 1. Listas Enlazadas.
